@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingLockScreenImageSaver", "BingLockScreenImageSaver\BingLockScreenImageSaver.csproj", "{A936D867-D783-42CA-8294-D247969C025B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A936D867-D783-42CA-8294-D247969C025B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A936D867-D783-42CA-8294-D247969C025B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A936D867-D783-42CA-8294-D247969C025B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A936D867-D783-42CA-8294-D247969C025B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA952DB3-9E08-452F-AE3E-7673D0734D0A}
+	EndGlobalSection
+EndGlobal
